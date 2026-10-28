@@ -1,11 +1,17 @@
-Dashboard Screenshots
+# Power BI Dashboard Screenshots
 
-This folder contains screenshots of the five-page COVID-19 Healthcare Analytics Power BI dashboard.
+## 1. Overview Dashboard
+![COVID-19 Overview Dashboard](01_overview.png)
 
-Planned Screenshots
-Overview Dashboard — Key COVID-19 KPIs and global trends
-Monthly Trends — Monthly cases, recoveries, and month-over-month analysis
-Country Comparison — Comparative analysis of countries and key health metrics
-Vaccination & Healthcare — Vaccination, hospitalization, and ICU trends
-Advanced Country Performance — Country-level KPIs, rankings, and comparisons
+## 2. Monthly Trends
+![Monthly COVID-19 Trends](02_monthly_trends.png)
+
+## 3. Country Comparison
+![Country Comparison Dashboard](03_country_comparison.png)
+
+## 4. Vaccination & Healthcare
+![Vaccination and Healthcare Dashboard](04_vaccination_healthcare.png)
+
+## 5. Advanced Country Performance
+![Advanced Country Performance Dashboard](05_country_performance.png)
 
