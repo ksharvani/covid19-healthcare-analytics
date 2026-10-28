@@ -40,6 +40,24 @@ Row-level security (RLS) configuration and testing in Power BI Desktop
 **Project Goals**
 To demonstrate practical skills in SQL-based analytics, data modeling, business intelligence, and communicating insights through interactive dashboards.
 
+## Project Files
+
+- [SQL Scripts](sql/README.md) — Data preparation, table creation, and analytical queries.
+- [Power BI Documentation](power-bi/README.md) — Dashboard features, data modeling, and implementation details.
+- [Dashboard Screenshots](screenshots/README.md) — Preview all five report pages.
+
+## Key Skills Demonstrated
+
+- SQL analytics using Google BigQuery
+- Data validation, transformations, and window functions
+- Power BI data modeling and DAX measures
+- Healthcare KPI development and trend analysis
+- Interactive dashboards and country-level comparisons
+
+## Project Status
+
+Completed portfolio project. The repository documents the SQL analysis, Power BI dashboard, and key analytical findings.
+
 
 
 
