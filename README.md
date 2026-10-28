@@ -38,8 +38,6 @@ Row-level security (RLS) configuration and testing in Power BI Desktop
 **Project Goals**
 To demonstrate practical skills in SQL-based analytics, data modeling, business intelligence, and communicating insights through interactive dashboards.
 
-**Author**
-Data Analyst | SQL | Power BI | BigQuery | Excel
 
 
 
