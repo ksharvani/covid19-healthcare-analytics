@@ -16,4 +16,8 @@ Implementation
 
 The report uses Power BI Desktop in Import mode, with Google BigQuery as the data source.
 
-Dashboard screenshots and selected DAX measures will be added to this folder.
+## Technical Documentation
+
+- [Data Model](data-model.md) — Fact and dimension tables, relationships, data grain, and modeling decisions.
+- [DAX Measures](dax-measures.md) — Documentation of key Power BI calculations.
+- [Dashboard Screenshots](../screenshots/README.md) — Visual previews of all five report pages.
