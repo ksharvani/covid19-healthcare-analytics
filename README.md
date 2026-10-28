@@ -45,6 +45,7 @@ To demonstrate practical skills in SQL-based analytics, data modeling, business 
 - [SQL Scripts](sql/README.md) — Data preparation, table creation, and analytical queries.
 - [Power BI Documentation](power-bi/README.md) — Dashboard features, data modeling, and implementation details.
 - [Dashboard Screenshots](screenshots/README.md) — Preview all five report pages.
+- [Project Insights](project-insights.md) — Key findings, data quality considerations, business intelligence value, and recommendations.
 
 ## Key Skills Demonstrated
 
