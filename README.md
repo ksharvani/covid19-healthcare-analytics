@@ -1,4 +1,5 @@
-# covid19-healthcare-analytics
+# Covid19-healthcare-analytics. 
+Data Analyst | SQL | Power BI | BigQuery | Excel
 End-to-end healthcare analytics project using Google BigQuery SQL and Power BI to analyze COVID-19 cases, deaths, recoveries, hospitalizations, ICU patients, and vaccination trends.
 
 **COVID-19 Healthcare Analytics Dashboard**
