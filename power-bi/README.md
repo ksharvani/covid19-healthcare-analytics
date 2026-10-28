@@ -2,8 +2,8 @@ Power BI Dashboard
 
 This folder documents the Power BI report developed for the COVID-19 Healthcare Analytics project.
 
-Report Features
-Five analytical report pages
+**Report Features**
+_Five analytical report pages_
 Interactive country, year, month, quarter, and date filters
 KPI cards for confirmed cases, deaths, vaccination percentage, and case fatality rate
 Monthly trends and month-over-month analysis
